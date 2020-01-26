@@ -1,6 +1,14 @@
 # jsms
 Sistem pendaftaran antrian dengan SMS gateway berbasis web - www.firstplato.com
 
+Dilengkapi dengan dokumentasi dalam bentuk PDF yang berisi :
+- Desain DB
+- Desain Sistem
+- Minimum requirements
+- Part
+- Installasi
+- Referensi
+
 Hardware :
 - 1 PC/Laptop untuk host
 - 1 LCD/LED panel untuk menampilkan antrian
@@ -16,3 +24,4 @@ Feel free to reach me on :
 - https://www.firstplato.com
 - admin@firstplato.com
 - https://www.facebook.com/firstplato
+- WhatsApp : o856 48587 856
