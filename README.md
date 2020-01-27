@@ -21,7 +21,7 @@ Hardware untuk pengujian :
 - USB GSM Modem Huawei 1630 
 
 Preview :
-<center><br><img src="pic/1.png" />
+<br><img src="pic/1.png" />
 <br><img src="pic/2.png" />
 <br><img src="pic/3.png" />
 <br><img src="pic/4.png" />
@@ -30,7 +30,7 @@ Preview :
 <br><img src="pic/7.png" />
 <br><img src="pic/8.png" />
 <br><img src="pic/9.png" />
-<br><img src="pic/10.png" height="50%" width="50%" /></center>
+<br><center><img src="pic/10.png" height="50%" width="50%" /></center>
 
 Feel free to reach me on :
 - https://www.firstplato.com
