@@ -20,6 +20,9 @@ Hardware untuk pengujian :
 - USB Mouse 7D Rexus Xierra X3
 - USB Modem Huawei 1630 
 
+Preview :
+<img src="img/1.PNG" />
+
 Feel free to reach me on :
 - https://www.firstplato.com
 - admin@firstplato.com
