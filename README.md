@@ -21,7 +21,7 @@ Hardware untuk pengujian :
 - USB Modem Huawei 1630 
 
 Preview :
-<img src="img/1.PNG" />
+<br><img src="pic/1.png" />
 
 Feel free to reach me on :
 - https://www.firstplato.com
