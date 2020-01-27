@@ -22,6 +22,14 @@ Hardware untuk pengujian :
 
 Preview :
 <br><img src="pic/1.png" />
+<br><img src="pic/2.png" />
+<br><img src="pic/3.png" />
+<br><img src="pic/4.png" />
+<br><img src="pic/5.png" />
+<br><img src="pic/6.png" />
+<br><img src="pic/7.png" />
+<br><img src="pic/8.png" />
+<br><img src="pic/9.png" />
 
 Feel free to reach me on :
 - https://www.firstplato.com
