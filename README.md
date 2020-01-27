@@ -30,6 +30,7 @@ Preview :
 <br><img src="pic/7.png" />
 <br><img src="pic/8.png" />
 <br><img src="pic/9.png" />
+<br><img src="pic/10.png" />
 
 Feel free to reach me on :
 - https://www.firstplato.com
